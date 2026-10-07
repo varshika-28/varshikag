@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculater
 
 A simple interest calculator is a small utility that computes the interest earned or payable on a principal amount over time using a fixed rate of interest.
 
