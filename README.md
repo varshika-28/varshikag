@@ -41,5 +41,5 @@ This calculator is useful for students, beginners, and anyone who wants to under
 
 ## Project Goal
 
-The goal of this project is to provide a basic and easy-to-understand implementation of a simple interest calculator using straightforward logic and clear user inputs.
+The goal of this project is to provide a basic and easy-to-understand implementation of a simple interest calculator using straightforward logic and clear input prompts
 
